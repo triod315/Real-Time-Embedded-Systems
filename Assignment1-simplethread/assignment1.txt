@@ -1,0 +1,3 @@
+Mar  9 21:00:57 raspberrypi triod315: [COURSE:1][ASSIGNMENT:1]: Linux raspberrypi 5.15.84-v8+ #1613 SMP PREEMPT Thu Jan 5 12:03:08 GMT 2023 aarch64 GNU/Linux
+Mar  9 21:00:57 raspberrypi [COURSE:1][ASSIGNMENT:1]: Hello World from Main!
+Mar  9 21:00:57 raspberrypi [COURSE:1][ASSIGNMENT:1]: Hello World from Thread!
